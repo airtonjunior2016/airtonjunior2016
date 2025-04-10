@@ -1,4 +1,6 @@
-## Hi there 👋
+## Olá, meu nome é Junior 👋
+Profissional de suporte técnico com mais de 20 anos de experiência na resolução eficiente de problemas de hardware e software. Especialista em diagnóstico e resolução de incidentes técnicos, assim como na prestação de assistência técnica aos usuários finais. Excelentes habilidades de comunicação e capacidade para trabalhar tanto de forma independente quanto em equipe.
+https://airtonjr.netlify.app/
 
 <!--
 **airtonjunior2016/airtonjunior2016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
