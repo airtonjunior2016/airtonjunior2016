@@ -1,5 +1,13 @@
 ## Olá, meu nome é Junior 👋
 Profissional de suporte técnico com mais de 20 anos de experiência na resolução eficiente de problemas de hardware e software. Especialista em diagnóstico e resolução de incidentes técnicos, assim como na prestação de assistência técnica aos usuários finais. Excelentes habilidades de comunicação e capacidade para trabalhar tanto de forma independente quanto em equipe.
+
+![image](https://github.com/user-attachments/assets/937911c6-e675-4d27-a40c-bac6c341ed11)
+
+
+- Linux
+- AWS
+- Docker
+  
 https://airtonjr.netlify.app/
 
 <!--
